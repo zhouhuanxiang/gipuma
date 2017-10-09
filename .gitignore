@@ -11,6 +11,6 @@ scripts/data
 .cproject
 .project
 
-.sdf
-.opensdf
-.suo
+*.sdf
+*.opensdf
+

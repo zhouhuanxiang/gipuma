@@ -5,7 +5,10 @@ cmake_install.cmake
 cudacost.png
 cudadisp.png
 normals.png
-gipuma
+gipuma/Debug
+gipuma/Release
+gipuma/x64/Debug
+gipuma/x64/Release
 results
 scripts/data
 .cproject

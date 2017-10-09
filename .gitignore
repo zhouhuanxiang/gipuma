@@ -10,3 +10,7 @@ results
 scripts/data
 .cproject
 .project
+
+.sdf
+.opensdf
+.suo
